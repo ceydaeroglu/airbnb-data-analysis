@@ -20,11 +20,11 @@ This repository contains two interconnected projects applying Machine Learning a
 
 ### Tech Stack
 * **Language:** Python
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
 
 ### How to Run
 1. Clone the repository: `git clone https://github.com/ceydaeroglu/airbnb-data-analysis.git`
-2. Ensure you have the required libraries installed: `pip install pandas numpy scikit-learn matplotlib seaborn`
+2. Ensure you have the required libraries installed: `pip install pandas numpy scikit-learn matplotlib`
 3. Run the ML pipeline: `python MLProje.py`
 4. Run the Search Algorithm: `python AlgProje.py`
 
@@ -48,11 +48,11 @@ Bu depo, **New York City Airbnb (2019)** veri seti üzerinde Makine Öğrenmesi 
 
 ### Kullanılan Teknolojiler
 * **Dil:** Python
-* **Kütüphaneler:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+* **Kütüphaneler:** Pandas, NumPy, Scikit-learn, Matplotlib
 
 ### Nasıl Çalıştırılır?
 1. Depoyu klonlayın: `git clone https://github.com/ceydaeroglu/airbnb-data-analysis.git`
-2. Gerekli kütüphaneleri yükleyin: `pip install pandas numpy scikit-learn matplotlib seaborn`
+2. Gerekli kütüphaneleri yükleyin: `pip install pandas numpy scikit-learn matplotlib`
 3. ML segmentasyonunu çalıştırmak için: `python MLProje.py`
 4. Arama motorunu çalıştırmak için: `python AlgProje.py`
 
